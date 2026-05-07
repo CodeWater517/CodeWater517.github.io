@@ -19,6 +19,7 @@ body {
   text-rendering: auto;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background: #fdfdfc;
 }
 
 // -- Typography
@@ -636,6 +637,9 @@ samp {
 // Post Preview Pages (Home Page)
 
 .post-preview {
+  padding: 2px 0 2px 16px;
+  border-left: 3px solid transparent;
+  transition: border-color 0.2s ease, transform 0.2s ease;
   > a {
     color: @gray-dark;
     &:hover,
@@ -673,6 +677,10 @@ samp {
       }
     }
   }
+  &:hover {
+    border-left-color: fade(@brand-primary, 55%);
+    transform: translateX(2px);
+  }
   @media only screen and (min-width: 768px) {
     > a {
       > .post-title {
@@ -695,6 +703,7 @@ samp {
   font-size: 13px;
   font-style: italic;
   color: @brand-gray;
+  line-height: 1.8;
   &:hover {
     color: @brand-primary;
   }
@@ -725,6 +734,8 @@ samp {
 footer {
   font-size: 20px;
   padding: 50px 0 65px;
+  border-top: 1px solid #f1f1f1;
+  background: #fff;
   .list-inline {
     margin: 0;
     padding: 0;

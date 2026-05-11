@@ -642,10 +642,15 @@ samp {
   transition: border-color 0.2s ease, transform 0.2s ease;
   > a {
     color: @gray-dark;
+    outline: none;
+    box-shadow: none;
     &:hover,
-    &:focus {
+    &:focus,
+    &:active {
       text-decoration: none;
       color: @brand-primary;
+      outline: none;
+      box-shadow: none;
     }
     > .post-title {
       font-size: 21px;

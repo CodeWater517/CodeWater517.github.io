@@ -708,6 +708,66 @@ a img:hover,
 a img:focus {
   cursor: zoom-in;
 }
+a,
+button,
+input,
+textarea,
+select,
+.btn,
+.paper-button,
+.navbar-toggle,
+[role="button"],
+.search-icon-close,
+.tags .tag,
+#tag_cloud .tag {
+  -webkit-tap-highlight-color: transparent;
+}
+a:focus,
+a:focus-visible,
+a:active,
+button:focus,
+button:focus-visible,
+button:active,
+input:focus,
+input:focus-visible,
+input:active,
+textarea:focus,
+textarea:focus-visible,
+textarea:active,
+select:focus,
+select:focus-visible,
+select:active,
+.btn:focus,
+.btn:focus-visible,
+.btn:active,
+.paper-button:focus,
+.paper-button:focus-visible,
+.paper-button:active,
+.navbar-toggle:focus,
+.navbar-toggle:focus-visible,
+.navbar-toggle:active,
+[role="button"]:focus,
+[role="button"]:focus-visible,
+[role="button"]:active,
+.search-icon-close:focus,
+.search-icon-close:focus-visible,
+.search-icon-close:active,
+.tags .tag:focus,
+.tags .tag:focus-visible,
+.tags .tag:active,
+#tag_cloud .tag:focus,
+#tag_cloud .tag:focus-visible,
+#tag_cloud .tag:active {
+  outline: none !important;
+  box-shadow: none !important;
+}
+.btn.active,
+.btn.focus,
+.paper-button.focus,
+#tag_cloud .focus {
+  outline: none !important;
+  box-shadow: none !important;
+}
 article {
   overflow: hidden;
 }

@@ -61,6 +61,35 @@ a img {
   }
 }
 
+a,
+button,
+input,
+textarea,
+select,
+.btn,
+.paper-button,
+.navbar-toggle,
+[role="button"],
+.search-icon-close,
+.tags .tag,
+#tag_cloud .tag {
+  -webkit-tap-highlight-color: transparent;
+  &:focus,
+  &:focus-visible,
+  &:active {
+    outline: none !important;
+    box-shadow: none !important;
+  }
+}
+
+.btn.active,
+.btn.focus,
+.paper-button.focus,
+#tag_cloud .focus {
+  outline: none !important;
+  box-shadow: none !important;
+}
+
 article {
   overflow: hidden;
 }

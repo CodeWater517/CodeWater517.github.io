@@ -76,6 +76,8 @@ https://github.com/kitian616/jekyll-TeXt-theme
 							</h3>
 							{% endif %}
 						</a>
+						{%- assign article_last_modified_at = _article.last_modified_at | default: _article.date -%}
+						<p class="post-last-modified archive-last-modified">Last modified on {{ article_last_modified_at | date: "%B %-d, %Y" }}</p>
 						<hr>
 					</div>
 					{%- if forloop.last -%}

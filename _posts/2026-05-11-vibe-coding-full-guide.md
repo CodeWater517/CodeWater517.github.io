@@ -1,4 +1,21 @@
-# Vibe Coding 全流程指南：如何从 0 到 1 学会 AI 辅助开发
+---
+layout: post
+title: "Vibe Coding 全流程指南：如何从 0 到 1 学会 AI 辅助开发"
+subtitle: "从工具使用到工程化协作的系统学习路线"
+date: 2026-05-11
+author: "CodeWater517"
+header-img: "img/home-bg-geek.jpg"
+header-mask: 0.35
+tags:
+  - AI
+  - Vibe Coding
+  - 开发工具
+  - 工程实践
+last_modified_at: 2026-05-11 19:57:52 +0800
+revision_history:
+  - time: 2026-05-11 19:57:52 +0800
+    description: "新增“Vibe Coding 全流程指南”初稿。"
+---
 
 > 这篇文章不是一篇单纯介绍 Codex、Cursor、Claude Code 等工具的“工具测评”，也不是鼓吹“不会写代码也能做软件”的宣传文。它更想回答一个问题：**一个已经具备计算机基础的人，应该如何系统学习 Vibe Coding，并把它真正变成自己的开发能力？**
 
@@ -1351,4 +1368,3 @@ Vibe Coding 不是“不会编程的人让 AI 替自己写软件”，而是“�
 12. 用户提供的知乎文章：https://zhuanlan.zhihu.com/p/2034020219564340599。当前环境无法稳定打开正文，正式发布前建议补充精读其核心观点后再合并到参考资料中。
 13. Cloud Security Alliance：Secure Vibe Coding Guide。对 Vibe Coding 的安全边界、代码质量和风险意识有参考价值。
 14. cnblogs 文章《别再说 AI 编程就是 Vibe Coding 了！6 种主流模式一次讲清》。其中“程序员角色从自己写代码转向设计让 AI 可靠写代码的系统”的观点，对本文工程化立场有启发。
-

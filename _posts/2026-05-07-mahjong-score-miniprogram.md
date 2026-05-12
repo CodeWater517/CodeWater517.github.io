@@ -8,6 +8,8 @@ header-img: "img/home-bg-geek.jpg"
 header-mask: 0.35
 tags:
   - 项目
+  - 工具
+  - 日常
   - 小程序
   - 麻将
 last_modified_at: 2026-05-11 19:28:21 +0800

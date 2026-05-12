@@ -8,6 +8,8 @@ header-img: "img/home-bg-geek.jpg"
 header-mask: 0.35
 tags:
   - AI
+  - 开发
+  - 工具
   - Vibe Coding
   - 开发工具
   - 工程实践

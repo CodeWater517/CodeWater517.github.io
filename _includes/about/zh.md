@@ -6,6 +6,7 @@
 
 - [GitHub](https://github.com/CodeWater517)
 - [知乎](https://www.zhihu.com/people/ye-huo-70-13)
+- [抖音](https://v.douyin.com/GLYeNF4EJH4/)
 
 ##### 近期项目
 

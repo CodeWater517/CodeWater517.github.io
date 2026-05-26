@@ -2,7 +2,7 @@
 layout: post
 title: "Cursor、Codex、Claude Code 怎么选：AI 编程工具链入门"
 subtitle: "不要追逐工具排行榜，先按任务场景选择合适的协作方式"
-date: 2026-05-27
+date: 2026-05-26 10:10:00 +0800
 author: "CodeWater517"
 header-img: "img/home-bg-geek.jpg"
 header-mask: 0.35
@@ -24,10 +24,10 @@ revision_history:
 
 1. [Vibe Coding 系列导读：给计算机学生的 AI 协作开发路线](/2026/05/11/vibe-coding-full-guide/)
 2. [Vibe Coding 学习路线：计算机学生如何从 0 到 1 上手 AI 辅助开发](/2026/05/26/vibe-coding-learning-roadmap/)
-3. **工具链**：[Cursor、Codex、Claude Code 怎么选：AI 编程工具链入门](/2026/05/27/vibe-coding-tools/)
-4. [从 Prompt 到可提交代码：Vibe Coding 的工程闭环](/2026/05/28/vibe-coding-workflow/)
-5. [上下文工程：AGENTS.md、项目规则和可复用 Skills](/2026/05/29/vibe-coding-context-rules/)
-6. [实战篇：用 Vibe Coding 做课程项目、个人工具和科研复现](/2026/05/30/vibe-coding-practice/)
+3. **工具链**：[Cursor、Codex、Claude Code 怎么选：AI 编程工具链入门](/2026/05/26/vibe-coding-tools/)
+4. [从 Prompt 到可提交代码：Vibe Coding 的工程闭环](/2026/05/26/vibe-coding-workflow/)
+5. [上下文工程：AGENTS.md、项目规则和可复用 Skills](/2026/05/26/vibe-coding-context-rules/)
+6. [实战篇：用 Vibe Coding 做课程项目、个人工具和科研复现](/2026/05/26/vibe-coding-practice/)
 
 ## 先别问哪个工具最强
 

@@ -18,3 +18,29 @@
 "小程序": red
 "Vibe Coding": cyan
 "麻将": orange
+"macOS": cyan
+"全栈": blue
+"环境配置": green
+"Homebrew": green
+"命令行": indigo
+"Git": orange
+"GitHub": orange
+"VS Code": blue
+"Codex": green
+"SSH": indigo
+"Node.js": green
+"TypeScript": blue
+"React": cyan
+"Tailwind": cyan
+"Python": green
+"FastAPI": green
+"PostgreSQL": blue
+"Redis": red
+"Docker": indigo
+"Docker Compose": indigo
+"测试": purple
+"HTTPS": purple
+"Java": red
+"Go": cyan
+"MongoDB": green
+"云服务": orange
